@@ -7,11 +7,15 @@
         {
             "name": "Andrew Milsted",
             "email": "andrew@bluerhinos.co.uk"
+        },
+        {
+            "name": "Jens Reinemuth",
+            "email": "jens@reinemuth.rocks"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.4.0"
     },
     "autoload": {
         "psr-4": {
