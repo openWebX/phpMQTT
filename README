@@ -1,3 +1,5 @@
+Based on
+
 Blue Rhinos Consulting
 Andrew Milsted | andrew@bluerhinos.co.uk | http://www.bluerhinos.co.uk | @bluerhinos
 
@@ -8,4 +10,4 @@ Source: http://github.com/bluerhinos/phpMQTT
 
 To install via Composer
 -----------------------
-`composer require bluerhinos/phpmqtt`
+`composer require openWebX/phpMQTT`
