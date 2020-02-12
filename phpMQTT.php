@@ -170,7 +170,7 @@ class phpMQTT {
         }
         
         stream_set_timeout($this->socket, 5);
-        stream_set_blocking($this->socket, 0);
+        stream_set_blocking($this->socket, false);
         
         $i = 0;
         $buffer = '';
