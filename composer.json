@@ -1,5 +1,5 @@
 {
-    "name": "openWebX/phpMQTT",
+    "name": "openwebx/phpmqtt",
     "description": "Simple MQTT Class",
     "license": "BSD",
     "type": "library",
